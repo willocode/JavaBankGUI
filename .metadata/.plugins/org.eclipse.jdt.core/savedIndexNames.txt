@@ -1,3 +1,0 @@
-INDEX VERSION 1.131+/Users/bloodtypeocean/eclipse-workspace/Spark/.metadata/.plugins/org.eclipse.jdt.core
-4154239352.index
-1330472456.index
