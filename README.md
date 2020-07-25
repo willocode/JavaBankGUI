@@ -1,1 +1,1 @@
-# JavaBankGUI
+# Java bank application, with GUI
